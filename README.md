@@ -10,15 +10,15 @@ Neste curso, aprendemos a programar em diversas linguagens de programação.📖
 
 A grade curricular tem como principais tópicos: 
 
-- Java 📓
-- Spring Boot 📔
-- Banco de Dados: MySQL 📒
-- Angular 📕
-- Bootstrap 📗
-- HTML5 e CSS3 📘
-- JavaScript 📙
-- Git, Github 📝
-- Postman 📔
-- Scrum 📕
+🔴 Java 
+🟠 Spring Boot 
+🟡 Banco de Dados: MySQL 
+🟢 Angular 
+🔵 Bootstrap 
+🟣 HTML5 e CSS3 
+⚫️ JavaScript 
+⚪️ Git, Github 
+🟤 Postman 
+🔘 Scrum 
 
 
